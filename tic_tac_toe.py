@@ -1,7 +1,3 @@
-"""
-Build a single-player version of tik-tac-toe, making it you vs. computer instead of 1 vs. 1
-"""
-
 
 from tkinter import *
 import numpy as np
